@@ -1,0 +1,2 @@
+# Benchmark: Normal Vectors
+Benchmark to test the calculation of normal vector using structures created to easy this step. It gets each boundary element of the mesh and calculates its the normal vector.
