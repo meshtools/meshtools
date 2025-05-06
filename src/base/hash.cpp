@@ -2,6 +2,7 @@
 
 #include <vector>
 #include <algorithm>
+#include <cstdint>
 
 #define rot(x,k) (((x)<<(k)) | ((x)>>(32-(k))))
 #define mix(a,b,c) \
